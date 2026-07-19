@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/images/logo.png" width="360" alt="AURA Logo" />
+  <img src="./assets/images/Gemini_Generated_Image_joyvzyjoyvzyjoyv.png" width="360" alt="AURA Logo" />
 
   # AURA-OS
   ### Adaptive Unified Reasoning Agents
