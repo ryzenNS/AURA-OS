@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="./assets/images/Gemini_Generated_Image_joyvzyjoyvzyjoyv.png" width="360" alt="AURA Logo" />
+  <!-- Ensure the filename matches EXACTLY what you see in the folder -->
+  <img src="src/assets/images/logo.png" width="400" alt="AURA-OS Logo" />
+  
+  <h1>AURA-OS</h1>
+  <p><b>Automated Unified Resources & Allocation OS</b></p>
+  <p><i>A PromptWars Submission — Architected and built in Google AI Studio.</i></p>
+</div>
 
   # AURA-OS
   ### Adaptive Unified Reasoning Agents
