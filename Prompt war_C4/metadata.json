@@ -1,0 +1,6 @@
+{
+  "name": "AURA - Stadium Intelligence Platform",
+  "description": "Adaptive Unified Response Assistant (AURA) is an intelligent GenAI-powered Stadium Operations and Fan Experience Platform for the FIFA World Cup 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
