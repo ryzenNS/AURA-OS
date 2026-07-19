@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="./assets/images/logo.png" width="360" alt="AURA Logo" />
+  <!-- Ensure the filename matches EXACTLY what you see in the folder -->
+  <img src="src/assets/images/Gemini_Generated_Image_joyvzyjoyvzyjoyv.png" width=" 400" alt="AURA-OS Logo" />
+  
+  <h1>AURA-OS</h1>
+  <p><b>Automated Unified Resources & Allocation OS</b></p>
+  <p><i>A PromptWars Submission — Architected and built in Google AI Studio.</i></p>
+</div>
 
   # AURA-OS
   ### Adaptive Unified Reasoning Agents
@@ -16,7 +22,6 @@
   ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
 
   ![Made with AI Studio](https://img.shields.io/badge/Made%20with-Google%20AI%20Studio-4285F4?style=flat-square&logo=google)
-  ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
   ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)
 
 </div>
