@@ -11,7 +11,10 @@
   ### Adaptive Unified Reasoning Agents
 
   <i>Architected & built in Google AI Studio — submitted for <b>PromptWars</b></i>
-
+  <!-- Add this line to your existing Tech Stack list -->
+<a href="[https://aistudio.google.com/](https://ai.studio/apps/37cf82d0-5989-48d7-8199-d7cf42f79cd3)" target="_blank">
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Built with Google AI Studio" />
+</a>
   <br/>
 
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
