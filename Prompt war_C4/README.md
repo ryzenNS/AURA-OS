@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Ensure the filename matches EXACTLY what you see in the folder -->
-  <img src="src/assets/images/Gemini_Generated_Image_joyvzyjoyvzyjoyv.png" width="400" alt="AURA-OS Logo" />
+  <img src="src/assets/images/Gemini_Generated_Image_joyvzyjoyvzyjoyv.png" width=" 600" alt="AURA-OS Logo" />
   
   <h1>AURA-OS</h1>
   <p><b>Automated Unified Resources & Allocation OS</b></p>
