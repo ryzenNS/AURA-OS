@@ -22,7 +22,6 @@
   ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
 
   ![Made with AI Studio](https://img.shields.io/badge/Made%20with-Google%20AI%20Studio-4285F4?style=flat-square&logo=google)
-  ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
   ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)
 
 </div>
