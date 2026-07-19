@@ -164,10 +164,6 @@ Built with the help of the community and optimized by the power of Google Gemini
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
 <div align="center">
   <sub>Built with ⚡ by an AI-Augmented Developer — for PromptWars</sub>
 </div>
